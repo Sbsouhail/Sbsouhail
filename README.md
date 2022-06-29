@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sbsouhail
 - 👀 I’m interested in Sports ,Reading and gaming on the side
 - 🌱 I’m currently learning Web full stack developement
-- 💞️ I’m looking to collaborate on Web (full stack JavaScript,HTML CSS PHP),Mobile (Android Native,Flutter) and Desktop developement(C# WPF/Windows Forms)
+- 💞️ I’m looking to collaborate on Web (full stack JavaScript/TypeScript,NestJS,GraphQL,REST,HTML,CSS,PHP),Mobile(Android Native,Flutter,React Natie) and Desktop developement(C# WPF/Windows Forms)
 - 📫 How to reach me => Mail:sbsouhail@gmail.com
 
 <!---
